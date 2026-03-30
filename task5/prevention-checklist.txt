@@ -1,0 +1,58 @@
+
+# 🛡️ 'Stay Safe Online' Checklist for Indian College Students
+
+As a Student Digital Ambassador, your goal is to bridge the gap between convenience and security. Use this checklist to audit your digital habits.
+
+### **1. Secure Your Social Identity**
+
+  * **Action:** Enable **Two-Factor Authentication (2FA)** on WhatsApp, Instagram, and Gmail.
+  * **Why:** Even if someone steals your password, they cannot access your account without the OTP sent to your physical device.
+
+### **2. UPI Safety: The "PIN for Pay" Rule**
+
+  * **Action:** Never enter your UPI PIN while **receiving** money.
+  * **Why:** Scammers often send "Request Money" links disguised as "Refunds" or "Cashback." Remember: **A PIN is only required to send money, never to receive it.**
+
+### **3. Verify UPI Global/Merchant IDs**
+
+  * **Action:** Always double-check the name displayed on the screen after scanning a QR code before hitting 'Pay.'
+  * **Why:** Fraudsters often paste fake QR codes over original ones in local shops or canteens to redirect payments.
+
+### **4. Audit Your App Permissions**
+
+  * **Action:** Go to your phone settings and revoke "Camera," "Microphone," and "Contacts" access for apps that don't strictly need them.
+  * **Why:** Many "Free" utility apps (like calculators or flashlights) are often spyware designed to harvest your personal data.
+
+### **5. Practice "Tab-Sanity" on Public Wi-Fi**
+
+  * **Action:** Avoid logging into bank accounts or student portals while using free campus or railway station Wi-Fi. If necessary, use a trusted VPN.
+  * **Why:** Public networks are prone to "Man-in-the-Middle" attacks where hackers can intercept your data.
+
+### **6. Spot the "Job Offer" & "Scholarship" Scams**
+
+  * **Action:** Ignore unsolicited WhatsApp or Telegram messages offering "Part-time work from home" or "Exclusive Govt Scholarships" that ask for a registration fee.
+  * **Why:** Legitimate companies or government bodies will never ask for a "security deposit" via UPI to provide a job or scholarship.
+
+### **7. Clean Your Digital Footprint**
+
+  * **Action:** Use the "Activity Log" on Facebook/Instagram to delete old, embarrassing posts and untag yourself from photos that don't align with your professional image.
+  * **Why:** Future employers in India increasingly screen social media profiles during the background verification (BGV) process.
+
+### **8. Secure Your SIM Card**
+
+  * **Action:** Set up a **SIM PIN** in your phone settings.
+  * **Why:** If your phone is stolen, the thief can put your SIM into another phone to reset your bank passwords via OTP. A SIM PIN prevents the card from being used without authorization.
+
+-----
+
+## 🚩 How to Report Cybercrime in India
+
+If you or a friend have been a victim of financial fraud, cyberstalking, or any online crime, act immediately:
+
+1.  **Call the National Helpline:** Dial **1930** (Available 24/7). This is especially critical for financial frauds to "freeze" the money before the criminal withdraws it.
+2.  **File an Official Complaint:** Visit the **National Cyber Crime Reporting Portal** at [suspicious link removed].
+3.  **Local Assistance:** Visit the nearest **Cyber Cell** at your local police station.
+
+-----
+
+> **Ambassador Note:** Sharing is caring, but oversharing is daring. Stay alert, stay safe\!
